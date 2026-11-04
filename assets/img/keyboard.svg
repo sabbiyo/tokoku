@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Keyboard mekanik indigo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eceaff"/><stop offset="1" stop-color="#cbc5f8"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39405c"/><stop offset="1" stop-color="#20243a"/>
+    </linearGradient>
+    <pattern id="keys" width="27" height="27" patternUnits="userSpaceOnUse">
+      <rect width="21" height="21" rx="5" fill="#565f85"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="220" r="168" fill="#ffffff" opacity=".55"/>
+  <ellipse cx="300" cy="368" rx="168" ry="16" fill="#1e1b4d" opacity=".15"/>
+  <rect x="118" y="176" width="364" height="164" rx="26" fill="url(#body)"/>
+  <rect x="132" y="190" width="336" height="136" rx="18" fill="#2a3049"/>
+  <rect x="146" y="202" width="308" height="96" fill="url(#keys)"/>
+  <rect x="146" y="302" width="76" height="20" rx="6" fill="#5d6890"/>
+  <rect x="230" y="302" width="140" height="20" rx="6" fill="#7a6bff"/>
+  <rect x="378" y="302" width="76" height="20" rx="6" fill="#5d6890"/>
+  <rect x="150" y="186" width="18" height="6" rx="3" fill="#8f9bff"/>
+  <rect x="454" y="132" width="62" height="26" rx="8" fill="#20243a" opacity=".8"/>
+  <path d="M462 158v20" stroke="#20243a" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  <circle cx="478" cy="120" r="9" fill="#ffffff" opacity=".7"/>
+  <circle cx="126" cy="300" r="6" fill="#ffffff" opacity=".8"/>
+</svg>

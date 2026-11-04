@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Speaker portabel toska">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6fbf8"/><stop offset="1" stop-color="#b3e9e2"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2c9b93"/><stop offset="1" stop-color="#106e6b"/>
+    </linearGradient>
+    <linearGradient id="cone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9fffb"/><stop offset="1" stop-color="#a8e6df"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="220" r="168" fill="#ffffff" opacity=".55"/>
+  <ellipse cx="300" cy="392" rx="94" ry="14" fill="#0d4d4b" opacity=".16"/>
+  <rect x="222" y="98" width="156" height="252" rx="46" fill="url(#body)"/>
+  <rect x="222" y="98" width="156" height="80" rx="40" fill="#ffffff" opacity=".1"/>
+  <circle cx="300" cy="222" r="62" fill="url(#cone)"/>
+  <circle cx="300" cy="222" r="62" fill="none" stroke="#0d4d4b" stroke-width="4" opacity=".15"/>
+  <circle cx="300" cy="222" r="38" fill="#1b807b" opacity=".9"/>
+  <circle cx="300" cy="222" r="14" fill="#e9fffb"/>
+  <circle cx="372" cy="140" r="7" fill="#e9fffb" opacity=".9"/>
+  <g fill="#e9fffb" opacity=".28">
+    <circle cx="244" cy="140" r="3"/><circle cx="262" cy="140" r="3"/><circle cx="280" cy="140" r="3"/>
+    <circle cx="244" cy="156" r="3"/><circle cx="262" cy="156" r="3"/><circle cx="280" cy="156" r="3"/>
+    <rect x="234" y="312" width="132" height="8" rx="4"/>
+  </g>
+  <circle cx="460" cy="300" r="9" fill="#ffffff" opacity=".6"/>
+  <circle cx="144" cy="160" r="6" fill="#ffffff" opacity=".7"/>
+</svg>

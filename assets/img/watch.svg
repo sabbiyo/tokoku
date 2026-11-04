@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Smartwatch biru">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6f2ff"/><stop offset="1" stop-color="#bcd6ff"/>
+    </linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#33405c"/><stop offset="1" stop-color="#1d2639"/>
+    </linearGradient>
+    <linearGradient id="case" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a4257"/><stop offset="1" stop-color="#161b26"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#43d7ff"/><stop offset="1" stop-color="#4468ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="216" r="170" fill="#ffffff" opacity=".5"/>
+  <ellipse cx="300" cy="400" rx="96" ry="14" fill="#1b3559" opacity=".14"/>
+  <rect x="257" y="64" width="86" height="118" rx="26" fill="url(#band)"/>
+  <rect x="257" y="288" width="86" height="118" rx="26" fill="url(#band)"/>
+  <circle cx="300" cy="108" r="5" fill="#ffffff" opacity=".3"/>
+  <circle cx="300" cy="128" r="5" fill="#ffffff" opacity=".3"/>
+  <circle cx="300" cy="148" r="5" fill="#ffffff" opacity=".3"/>
+  <rect x="210" y="132" width="180" height="206" rx="48" fill="url(#case)"/>
+  <rect x="228" y="150" width="144" height="170" rx="34" fill="url(#screen)"/>
+  <text x="300" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#ffffff">10:28</text>
+  <text x="300" y="256" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#ffffff" opacity=".85">SEN 02 NOV</text>
+  <circle cx="300" cy="292" r="5" fill="#ffffff" opacity=".8"/>
+  <circle cx="282" cy="292" r="4" fill="#ffffff" opacity=".5"/>
+  <circle cx="318" cy="292" r="4" fill="#ffffff" opacity=".5"/>
+  <rect x="392" y="196" width="12" height="46" rx="6" fill="#4d5670"/>
+  <circle cx="441" cy="122" r="9" fill="#ffffff" opacity=".6"/>
+  <circle cx="158" cy="296" r="5" fill="#ffffff" opacity=".7"/>
+</svg>
